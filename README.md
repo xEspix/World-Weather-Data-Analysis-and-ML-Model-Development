@@ -14,7 +14,6 @@ This repository contains a comprehensive analysis of weather data and an impleme
 - [Data Augmentation](#data-augmentation)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 This project is aimed at exploring weather datasets and building a robust machine learning model to predict weather conditions. The workflow starts with data preprocessing and cleaning, followed by exploratory data analysis (EDA) to uncover trends and seasonal patterns. A machine learning pipeline is then constructed to train and evaluate predictive models. To boost performance, hyperparameters are fine-tuned using the OPTUNA optimization framework, and data augmentation techniques are applied to further improve the robustness of the model. The entire process is documented in the (`WeatherDataAnalysis.ipynb`) notebook.
@@ -73,6 +72,4 @@ Issues: Please report any bugs or feature suggestions via GitHub Issues.
 Pull Requests: Feel free to fork the repository and submit a pull request with your improvements.
 Coding Standards: Ensure that your code adheres to the existing style guidelines and is well-documented.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
