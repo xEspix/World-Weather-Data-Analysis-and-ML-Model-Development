@@ -30,6 +30,16 @@ Visualizations: Creating time series plots, histograms, scatter plots, and corre
 Insights: Highlighting trends such as seasonal variations, weather extremes, and correlations that could influence predictive performance.
 These steps help in understanding the data’s characteristics and guide feature engineering for the machine learning model.
 
+Here are some of the visuals of the Data Analysis : 
+
+![Top 10 Cities with Highest and Lowest Temperature](newplot.png "Top 10 Cities with Highest and Lowest Temperature")
+
+![Top 10 Cities with Highest and Lowest Wind Speed](newplot(1).png "Top 10 Cities with Highest and Lowest Wind Speed")
+
+![Top 10 Cities with Highest and Lowest Precipitation](newplot(2).png "Top 10 Cities with Highest and Lowest Precipitation")
+
+![Temperature in Different Cities](newplot(3).png "Temperature in Different Cities")
+
 
 
 ## Machine Learning Model
