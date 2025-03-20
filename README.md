@@ -1,6 +1,6 @@
 # World-Weather-Data-Analysis-and-ML-Model-Development
 
-# Weather Data Analysis and Machine Learning Model
+## Weather Data Analysis and Machine Learning Model
 
 This repository contains a comprehensive analysis of weather data and an implementation of a machine learning model to predict weather-related outcomes. The project leverages Python, data visualization libraries, and ML techniques to provide insights and forecasts from historical weather data.
 
